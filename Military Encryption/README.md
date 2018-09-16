@@ -1,2 +1,2 @@
 # Military Encryption Program
-#### Uses diliemters to encrypt keywords in sentences.
+#### Uses delimiter to encrypt keywords in sentences.
